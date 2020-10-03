@@ -11,10 +11,10 @@ I am Ramiz and I love mobile development. Here are a few things about me
 - [Portfolio](http://informramiz.github.io/) 
 - [Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/) 
 - [Arc.dev](https://arc.dev/@ramizraja) 
-- [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
 - [LinkedIn](https://www.linkedin.com/in/ramiz-raja/) 
 - [Medium](https://medium.com/@informramiz) 
 - [Twitter](https://twitter.com/informramiz)
+- [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
 
 --------------
 
