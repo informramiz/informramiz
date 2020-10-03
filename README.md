@@ -8,12 +8,16 @@ Here are some ideas to get you started:
 
 --------------
 
-[Portfolio](http://informramiz.github.io/) 
-[Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/) [Arc.dev](https://arc.dev/@ramizraja) [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
-[LinkedIn](https://www.linkedin.com/in/ramiz-raja/) [Medium](https://medium.com/@informramiz) [Twitter](https://twitter.com/informramiz)
+- [Portfolio](http://informramiz.github.io/) 
+- [Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/) 
+- [Arc.dev](https://arc.dev/@ramizraja) 
+- [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
+- [LinkedIn](https://www.linkedin.com/in/ramiz-raja/) 
+- [Medium](https://medium.com/@informramiz) 
+- [Twitter](https://twitter.com/informramiz)
 
 --------------
 
-[Associate Android Developer Certificate](https://www.credential.net/604caab4-581d-4582-bbc1-fd788081f62a?key)
+- [Associate Android Developer Certificate](https://www.credential.net/604caab4-581d-4582-bbc1-fd788081f62a?key)
 
 
