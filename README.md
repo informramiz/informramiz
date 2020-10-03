@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**informramiz/informramiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Ramiz and I love mobile development
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Sr. Android Developer at Plume.
+- 🌱 I’m currently reading some cool books by Martin C. (Uncle Bob), like Clean Code Architecture, Clean Coder and Clean Agile.
+- 👯 I’m looking to collaborate to some cool open-source projects.
+
+--------------
+
+[Portfolio](http://informramiz.github.io/) 
+[Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/) [Arc.dev](https://arc.dev/@ramizraja) [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
+[LinkedIn](https://www.linkedin.com/in/ramiz-raja/) [Medium](https://medium.com/@informramiz) [Twitter](https://twitter.com/informramiz)
+
+--------------
+
+[Associate Android Developer Certificate](https://www.credential.net/604caab4-581d-4582-bbc1-fd788081f62a?key)
+
+
