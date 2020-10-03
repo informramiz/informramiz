@@ -1,6 +1,6 @@
-### Hi there 👋 I am Ramiz and I love mobile development
+### Hi there 👋 
 
-Here are some ideas to get you started:
+I am Ramiz and I love mobile development. Here are a few things about me
 
 - 🔭 I’m currently working as a Sr. Android Developer at Plume.
 - 🌱 I’m currently reading some cool books by Martin C. (Uncle Bob), like Clean Code Architecture, Clean Coder and Clean Agile.
