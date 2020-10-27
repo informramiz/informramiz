@@ -2,9 +2,13 @@
 
 I am Ramiz and I love mobile development. Here are a few things about me
 
-- 🔭  I’m currently working as a Sr. Android Developer at Plume.
-- 🌱  I’m currently reading some cool books by Martin C. (Uncle Bob), like Clean Code Architecture, Clean Coder and Clean Agile.
+- 🔭  I’m currently working as a Sr. Android Developer at Plume, with Clean Code Architecture and Agile as the development model.
+- 🌱  I’m currently reading some cool books by Robert C. Martin (aka Uncle Bob), like Clean Code Architecture, Clean Coder and Clean Agile.
 - 👯  I’m looking to collaborate to some cool open-source projects.
+
+--------------
+
+- [Associate Android Developer Certificate](https://www.credential.net/604caab4-581d-4582-bbc1-fd788081f62a?key)
 
 --------------
 
@@ -15,9 +19,3 @@ I am Ramiz and I love mobile development. Here are a few things about me
 - [Medium](https://medium.com/@informramiz) 
 - [Twitter](https://twitter.com/informramiz)
 - [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
-
---------------
-
-- [Associate Android Developer Certificate](https://www.credential.net/604caab4-581d-4582-bbc1-fd788081f62a?key)
-
-
