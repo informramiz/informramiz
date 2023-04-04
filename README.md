@@ -13,9 +13,17 @@ I am Ramiz and I love mobile development. Here are a few things about me
 --------------
 
 - [Portfolio](http://informramiz.github.io/) 
-- [Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/) 
-- [Arc.dev](https://arc.dev/@ramizraja) 
 - [LinkedIn](https://www.linkedin.com/in/ramiz-raja/) 
+- [Toptal](https://www.toptal.com/resume/ramiz-raja)
+- [Upwork](https://www.upwork.com/o/profiles/users/~019fe875b898e86fdc/)
+- [BrainTrust](https://app.usebraintrust.com/talent/36862/) 
+- [TripleByte](https://triplebyte.com/tb/ramiz-raja-eg7j03l)
+- [Mission](https://app.mission.dev/profile/public/ramiz-raja-128bea63)
+- [Arc.dev](https://arc.dev/@ramizraja) 
+- [Turing](https://matching.turing.com/developer-resume/47bae34bce88460e1c94d225662d916f23e275e554bb)
 - [Medium](https://medium.com/@informramiz) 
 - [Twitter](https://twitter.com/informramiz)
-- [StackOverflow](https://stackoverflow.com/users/1703824/ramiz)
+
+--------------
+
+My recommended freerlancing platform is [Toptal](https://topt.al/nVcw5a) so I would highly recommend you to join it if you are interested in high-quality remote jobs.
