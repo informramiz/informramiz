@@ -27,3 +27,8 @@ I am Ramiz and I love mobile development. Here are a few things about me
 --------------
 
 My recommended freerlancing platform is [Toptal](https://topt.al/nVcw5a) so I would highly recommend you to join it if you are interested in high-quality remote jobs.
+
+--------------
+
+- [My Amazon Shopping List](https://linktr.ee/techwithrr)
+- [My AliExpress Shopping List](https://linktr.ee/techwithrr1)
